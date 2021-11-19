@@ -315,6 +315,11 @@ div.Ptext {
 	border: solid;
   	border-color: white;
 }
+
+div.PIMG {
+display: grid;
+}
+
 div.Polosxamples {
 	
   vertical-align: top;
@@ -325,7 +330,7 @@ div.Polosxamples {
   height: auto;
   background-color: white;
   color: white;
-  padding: 10px;
+  padding: 4px;
 	
 	
 }
