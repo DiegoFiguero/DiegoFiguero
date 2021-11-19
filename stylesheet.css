@@ -326,7 +326,26 @@ div.Ptext2 {
 	border: solid;
   	border-color: white;
 }
+div.Polosxamples {
+  margin: 2px;
+  padding: 2px;
+  width: auto;
+  height: auto;
+  vertical-align: top;
+  display: inline-block;
+  background-color: grey;
+  color: white;
+  align-content: center;
+}
 
+img.polo {
+  width: 486px;
+  height: 364px;
+  padding: 4px;
+  margin: 4px;
+  border: solid 2px;
+  border-color: hotpink;
+}
 /* Start of Megans Styling */
 div.Mtext {
   margin: 10px;
