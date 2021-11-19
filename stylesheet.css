@@ -327,18 +327,14 @@ div.Ptext2 {
   	border-color: white;
 }
 div.Polosxamples {
-  margin: 2px;
-  padding: 2px;
-  width: auto;
-  height: auto;
+  margin: 4px;
+  padding: 4px;
   color: white;
 }
 
 img.polo {
   width: 386px;
   height: 364px;
-  padding: 4px;
-  margin: 4px;
   border: solid 4px;
   border-color: hotpink;
 }
