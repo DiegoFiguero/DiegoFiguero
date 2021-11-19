@@ -316,22 +316,24 @@ div.Ptext {
   	border-color: white;
 }
 div.Polosxamples {
-	color: white;
-	display:inline-block; 
-	margin: 4px;
-	margin-left: 35
-	padding: 4px;
-	vertical-align:top;
-	background-color: white;
-	color:white;
+	
+  vertical-align: top;
+  display: inline-block;
+  margin: 10px;
+  width: auto;
+  height: auto;
+  background-color: white;
+  color: white;
+  padding: 10px;
 	
 }
 
 img.polo {
-	width: 386px;
-	height: 364px;
+	width: 773px;
+	height: 500px;
 	padding: 4px;
-	border: solid 4px;
+	margin: 4px;
+	border: solid 1px;
 	border-color: hotpink;
 	max-width: 100%;
 	height: auto;
