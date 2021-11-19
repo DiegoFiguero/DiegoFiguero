@@ -317,7 +317,7 @@ div.Ptext {
 }
 div.Polosxamples {
 	
-  vertical-align: top;
+  horizontal-align: top;
   display: inline-block;
   margin: 10px;
   width: auto;
