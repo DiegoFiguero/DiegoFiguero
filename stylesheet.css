@@ -332,12 +332,11 @@ div.Polosxamples {
   width: auto;
   height: auto;
   color: white;
-  align-content: center;
 }
 
 img.polo {
-  width: 286px;
-  height: 264px;
+  width: 386px;
+  height: 364px;
   padding: 4px;
   margin: 4px;
   border: solid 4px;
