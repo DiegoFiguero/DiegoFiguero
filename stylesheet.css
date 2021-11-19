@@ -327,18 +327,20 @@ div.Ptext2 {
   	border-color: white;
 }
 div.Polosxamples {
-  color: white;
-  display:felx; 
+	color: white;
+	display:felx; 
 
 }
 
 img.polo {
-  width: 386px;
-  height: 364px;
-  border: solid 4px;
-  border-color: hotpink;
-  max-width: 100%;
-  height: auto;
+	width: 386px;
+	height: 364px;
+	border: solid 4px;
+	border-color: hotpink;
+	max-width: 100%;
+	height: auto;
+	flex:33.33%;
+	padding: 4px;
 }
 /* Start of Megans Styling */
 div.Mtext {
