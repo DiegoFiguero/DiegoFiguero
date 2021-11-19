@@ -320,11 +320,13 @@ div.Polosxamples {
   vertical-align: top;
   display: inline-block;
   margin: 10px;
-  width: auto;
+  width: 100%;
+  max-width: 400px;
   height: auto;
   background-color: white;
   color: white;
   padding: 10px;
+	
 	
 }
 
