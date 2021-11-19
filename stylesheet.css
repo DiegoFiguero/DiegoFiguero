@@ -328,8 +328,13 @@ div.Ptext2 {
 }
 div.Polosxamples {
 	color: white;
-	display:felx; 
-
+	display:inline-block; 
+	margin: 4px;
+	padding: 4px;
+	vertical-align:top;
+	background-color: white;
+	color:white;
+	
 }
 
 img.polo {
@@ -340,7 +345,6 @@ img.polo {
 	max-width: 100%;
 	height: auto;
 	flex:33.33%;
-	padding: 4px;
 }
 /* Start of Megans Styling */
 div.Mtext {
