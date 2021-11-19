@@ -337,6 +337,8 @@ img.polo {
   height: 364px;
   border: solid 4px;
   border-color: hotpink;
+  max-width: 100%;
+  height: auto;
 }
 /* Start of Megans Styling */
 div.Mtext {
