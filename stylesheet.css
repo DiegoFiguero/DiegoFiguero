@@ -328,7 +328,7 @@ div.Polosxamples {
 	
 }
 
-img.polo {
+img.polo1 {
 	width: 373px;
 	height: 300px;
 	padding: 4px;
@@ -338,6 +338,29 @@ img.polo {
 	max-width: 100%;
 	height: auto;
 }
+
+img.polo2 {
+	width: 373px;
+	height: 300px;
+	padding: 4px;
+	margin: 4px;
+	border: solid 1px;
+	border-color: hotpink;
+	max-width: 100%;
+	height: auto;
+}
+
+img.polo3 {
+	width: 373px;
+	height: 300px;
+	padding: 4px;
+	margin: 4px;
+	border: solid 1px;
+	border-color: hotpink;
+	max-width: 100%;
+	height: auto;
+}
+
 /* Start of Megans Styling */
 div.Mtext {
   margin: 10px;
