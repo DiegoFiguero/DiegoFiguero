@@ -317,7 +317,7 @@ div.Ptext {
 }
 div.Polosxamples {
 	
-  horizontal-align: top;
+  vertical-align: top;
   display: inline-block;
   margin: 10px;
   width: auto;
@@ -335,8 +335,6 @@ img.polo1 {
 	margin: 4px;
 	border: solid 1px;
 	border-color: hotpink;
-	max-width: 100%;
-	height: auto;
 }
 
 img.polo2 {
@@ -346,8 +344,7 @@ img.polo2 {
 	margin: 4px;
 	border: solid 1px;
 	border-color: hotpink;
-	max-width: 100%;
-	height: auto;
+
 }
 
 img.polo3 {
@@ -357,8 +354,6 @@ img.polo3 {
 	margin: 4px;
 	border: solid 1px;
 	border-color: hotpink;
-	max-width: 100%;
-	height: auto;
 }
 img.polo4 {
 	width: 173px;
@@ -367,8 +362,6 @@ img.polo4 {
 	margin: 4px;
 	border: solid 1px;
 	border-color: hotpink;
-	max-width: 100%;
-	height: auto;
 }
 img.polo5 {
 	width: 173px;
@@ -377,8 +370,6 @@ img.polo5 {
 	margin: 4px;
 	border: solid 1px;
 	border-color: hotpink;
-	max-width: 100%;
-	height: auto;
 }
 
 /* Start of Megans Styling */
