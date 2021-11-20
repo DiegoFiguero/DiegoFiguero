@@ -321,6 +321,7 @@ display: grid;
 grid-template-columns: 1fr 1fr 1fr;
 column-gap: 4px;
 column-row: 4px;
+width: 100%;
 }
 
 div.Polosxamples {
