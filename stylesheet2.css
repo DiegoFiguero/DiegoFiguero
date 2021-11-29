@@ -14,7 +14,7 @@ div.title {
   font-family: 'Ubuntu';
   color: 231f20;
   font-size: 37.5px;
-  /*width: 465px;*/
+  border-bottom-width: 200px;
 }
 
 div.subtitle {
