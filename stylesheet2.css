@@ -12,10 +12,11 @@ body {
 
 div.title {
   font-family: 'Ubuntu';
-  color: white;
+  color: 231f20;
   font-size: 37.5px;
   border: solid;
   border-color: white;
+ background-color: fbc10d;
   width: 465px;
 }
 
