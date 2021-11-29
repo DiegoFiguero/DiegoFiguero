@@ -321,7 +321,7 @@ div.PIMG {
 display: grid;
 grid-template-columns: 1fr 1fr;
 column-gap: 10px;
-column-row: 10pxpx;
+column-row: 10px;
 }
 
 div.Polosxamples {
