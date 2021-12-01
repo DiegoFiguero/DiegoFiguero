@@ -17,6 +17,7 @@ div.title {
   font-size: 37.5px;
   border-bottom-width: 200px;
   display: flex;
+object-fit: contai;
 }
 
 div.subtitle {
@@ -153,10 +154,6 @@ a:link.two {
 
 a:visited {
   text-decoration: none;
-}
-
-img {
-  object-fit: cover;
 }
 
 img.one {
