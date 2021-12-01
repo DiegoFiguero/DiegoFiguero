@@ -184,53 +184,13 @@ img.three {
   border-color: purple;
 }
 
-/* amanda styling */
-div.Atext {
-  margin: 10px;
-  font-family: 'Oxygen';
-  color: white;
-  width: 600px;
-}
-
-div.amandaexamples {
-  vertical-align: top;
-  display: inline-block;
-  /*left: auto; added this*/
-  margin: 10px;
-  width: auto;
-  height: auto;
-  background-color: white;
-  color: white;
-  padding: 10px;
-}
-
-img.amanda1 {
-  width: 773px;
+div.PIMG {
+	width: 773px;
   height: 500px;
   padding: 4px;
   margin: 4px;
-  border: solid 1px;
-  border-color: purple;
 }
-
-img.amanda2 {
-  width: 889px;
-  height: 500px;
-  padding: 4px;
-  margin: 4px;
-  border: solid 1px;
-  border-color: purple;
 }
-
-img.amanda3 {
-  width: 500px;
-  height: 500px;
-  padding: 4px;
-  margin: 0px;
-  border: solid 1px;
-  border-color: purple;
-}
-/* end of amanda styling*/
 
 
 /* responsive styling for mobile browsing */
