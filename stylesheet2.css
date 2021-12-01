@@ -15,7 +15,6 @@ div.title {
   color: 231f20;
   font-size: 37.5px;
   border-bottom-width: 200px;
-  margin-bottom: -140px;
 }
 
 div.subtitle {
@@ -34,7 +33,7 @@ div.menu {
   color: purple;
   border: solid;
   border-color: white;
-  width: 272px;
+  width: 184px;
 }
 
 div.index-description {
