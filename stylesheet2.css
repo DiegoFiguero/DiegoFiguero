@@ -3,7 +3,6 @@
 
 body {
  background-image: url("https://polof2.files.wordpress.com/2021/10/unperson-poster-01.png");
-  filter: blurr(8px);
  background-position: center;
  background-repeat: no-repeat;
  background-size: cover;
@@ -17,7 +16,7 @@ div.title {
   font-size: 37.5px;
   border-bottom-width: 200px;
   display: flex;
-object-fit: contai;
+object-fit: contain;
 }
 
 div.subtitle {
