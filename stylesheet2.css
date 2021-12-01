@@ -16,7 +16,9 @@ div.title {
   color: 231f20;
   font-size: 37.5px;
   border-bottom-width: 200px;
-	background-color: 353735;
+margin-left: -90px;
+    margin-right: 499;
+    background-color: f9c113;
 }
 
 div.subtitle {
