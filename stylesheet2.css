@@ -16,6 +16,8 @@ div.title {
   color: 231f20;
   font-size: 37.5px;
   border-bottom-width: 200px;
+  position-left: 25px;
+	position: absolute;
 }
 
 div.subtitle {
