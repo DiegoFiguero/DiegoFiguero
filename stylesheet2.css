@@ -35,6 +35,7 @@ div.menu {
   border: solid;
   border-color: white;
   width: 184px;
+  margin-top: 15px;
 }
 
 div.index-description {
@@ -79,6 +80,7 @@ div.about {
   font-size: 15px;
   border: solid;
   border-color: white;
+	margin-top: 15px;
 }
 
 div.research {
@@ -90,6 +92,7 @@ div.research {
   font-size: 15px;
   border: solid;
   border-color: white;
+	margin-top: 15px;
 }
 
 div.examples {
