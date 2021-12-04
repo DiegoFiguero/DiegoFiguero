@@ -11,6 +11,8 @@ body {
 
 
 div.title {
+	position: relative;
+	top: 100px;
   font-family: 'Ubuntu';
   color: 231f20;
   font-size: 37.5px;
@@ -27,13 +29,11 @@ div.subtitle {
 }
 
 div.menu {
-  left: 193px;
+	top: 76px;
+    position: relative;
   font-family: 'Ubuntu';
-  background-color: gold;
-  color: violet;
-  border: solid;
-  width: 200px;
-  margin-top: 15px;
+  background-color:  #fbc00f;
+  width: 125px;
 	padding: 5px;
 }
 
@@ -73,14 +73,12 @@ div.about {
   position: relative;
   left: 222px;
   font-family: 'Ubuntu';
-  color: purple;
-  background-color: white;
+  color: white;
+  background-color: #741b47ff;
   width: 272px;
   font-size: 15px;
-  border: solid;
-  border-color: white;
-	margin-top: 15px;
-	padding: 5px;
+	margin-top: 95px;
+	padding: 15px;
 }
 
 div.research {
@@ -112,18 +110,18 @@ body {
 }
 
 mark.one {
-  color: red;
-  background-color: white;
+  color: #343735;
+  background-color: #fbc00f;
 }
 
 mark.two {
-  color: white;
-  background-color: purple;
+  color: #343735;
+  background-color: #fbc00f;
 }
 
 mark.three {
-  color: white;
-  background-color: green;
+  color: #343735;
+  background-color: #fbc00f;
 }
 
 mark.current {
