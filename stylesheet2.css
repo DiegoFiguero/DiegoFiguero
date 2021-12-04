@@ -32,8 +32,9 @@ div.menu {
   background-color: gold;
   color: violet;
   border: solid;
-  width: 184px;
+  width: 200px;
   margin-top: 15px;
+	padding: 5px;
 }
 
 div.index-description {
@@ -70,7 +71,7 @@ div.student {
 
 div.about {
   position: relative;
-  left: 193px;
+  left: 222px;
   font-family: 'Ubuntu';
   color: purple;
   background-color: white;
@@ -79,6 +80,7 @@ div.about {
   border: solid;
   border-color: white;
 	margin-top: 15px;
+	padding: 5px;
 }
 
 div.research {
