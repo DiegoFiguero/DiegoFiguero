@@ -172,6 +172,19 @@ width: 273px;
 flex-wrap: wrap;
 	
 }
+/* Create three equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 15px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
 }
 
 
@@ -180,10 +193,5 @@ flex-wrap: wrap;
 /* when screen is 600px or less apply changes */
 @media only screen and (max-width: 600px) {
 
-  /* remove .gif background set background color to purple */
-  body {
-    background-image: none !important;
-    background-color: purple !important;
-  }
 
 }
