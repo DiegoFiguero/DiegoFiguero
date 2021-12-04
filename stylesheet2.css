@@ -58,21 +58,6 @@ div.stu-container {
 
 }
 
-div.student {
-	  vertical-align: top;
-	  display: inline-block;
-	  /*left: auto; added this*/
-	  margin: 10px;
-	  width: 295px;
-    height: auto;
-	  text-align: left;
-	  font-family: 'Ubuntu';
-	  font-size: 14px;
-    background-color: white;
-    color: white;
-    padding: 10px;
-}
-
 div.about {
       position: relative;
     left: 622px;
@@ -83,18 +68,9 @@ div.about {
     font-size: 15px;
     margin-top: 95px;
     padding: 15px;
+	tex-align: left;
 }
 
-div.research {
-  position: relative;
-  font-family: 'sans-serif';
-  color: purple;
-  background-color: white;
-  width: 465px;
-  font-size: 15px;
-  border: solid;
-  border-color: white;
-	margin-top: 15px;
 }
 
 div.examples {
