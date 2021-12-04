@@ -75,11 +75,11 @@ div.student {
 
 div.about {
       position: relative;
-    left: 222px;
+    left: 622px;
     font-family: 'sans-serif';
-    color: white;
-    background-color: #741b47ff;
-    width: 272px;
+    color: #343735;
+    background-color: #fbc00f;
+    width: fit-content;
     font-size: 15px;
     margin-top: 95px;
     padding: 15px;
@@ -113,8 +113,7 @@ body {
   background-color: #343735;
 }
 mark.zero {
-  color: white;
-	background-color: #343735
+  color: #343735;
 }
 mark.one {
   color: #343735;
