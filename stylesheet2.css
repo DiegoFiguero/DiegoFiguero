@@ -19,6 +19,10 @@ div.title {
   border-bottom-width: 200px;
   display: flex;
 object-fit: contain;
+	background-color: #fbc00f;
+	width: fit-content;
+	padding-top: 20px;
+	padding-bottom: 10px;
 }
 
 div.subtitle {
@@ -29,12 +33,12 @@ div.subtitle {
 }
 
 div.menu {
-	top: 76px;
+	top: 100px;
     position: relative;
   font-family: 'Ubuntu';
   background-color:  #fbc00f;
-  width: 125px;
-	padding: 5px;
+  width: fit-content;
+	padding: 6px;
 }
 
 div.index-description {
