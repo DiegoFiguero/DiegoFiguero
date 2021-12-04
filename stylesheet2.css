@@ -13,7 +13,7 @@ body {
 div.title {
 	position: relative;
 	top: 100px;
-  font-family: 'Ubuntu';
+  font-family: 'sans-serif';
   color: 231f20;
   font-size: 37.5px;
   border-bottom-width: 200px;
@@ -26,7 +26,7 @@ object-fit: contain;
 }
 
 div.subtitle {
-  font-family: 'Ubuntu';
+  font-family: 'sans-serif';
   color: white;
   font-size: 20px;
   left: 183px;
@@ -35,14 +35,14 @@ div.subtitle {
 div.menu {
 	top: 100px;
     position: relative;
-  font-family: 'Ubuntu';
+  font-family: 'sans-serif';
   background-color:  #fbc00f;
   width: fit-content;
 	padding: 6px;
 }
 
 div.index-description {
-  font-family: 'Ubuntu';
+  font-family: 'sans-serif';
   color: white;
   background-color: red;
   width: 400px;
@@ -74,20 +74,20 @@ div.student {
 }
 
 div.about {
-  position: relative;
-  left: 222px;
-  font-family: 'Ubuntu';
-  color: white;
-  background-color: #741b47ff;
-  width: 272px;
-  font-size: 15px;
-	margin-top: 95px;
-	padding: 15px;
+      position: relative;
+    left: 222px;
+    font-family: 'sans-serif';
+    color: white;
+    background-color: #741b47ff;
+    width: 272px;
+    font-size: 15px;
+    margin-top: 95px;
+    padding: 15px;
 }
 
 div.research {
   position: relative;
-  font-family: 'Ubuntu';
+  font-family: 'sans-serif';
   color: purple;
   background-color: white;
   width: 465px;
@@ -110,9 +110,12 @@ div.examples {
 }
 
 body {
-  background-color: purple;
+  background-color: #343735;
 }
-
+mark.zero {
+  color: white;
+	background-color: #343735
+}
 mark.one {
   color: #343735;
   background-color: #fbc00f;
