@@ -185,6 +185,11 @@ div.desc {
   box-sizing: border-box;
 }
 
+div.Names {
+
+	margin-top: 200px;
+}
+
 .responsive {
   padding: 0 6px;
   float: left;
