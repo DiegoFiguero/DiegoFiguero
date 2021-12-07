@@ -187,7 +187,13 @@ div.desc {
 
 div.Names {
 
-	margin-top: 200px;
+    margin-top: 200px;
+    background-color: #ab2d49;
+    color: white;
+    padding: 2px;
+    padding-left: 20px;
+    margin-bottom: 10px;
+    width: 146px;
 }
 
 .responsive {
