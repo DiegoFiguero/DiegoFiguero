@@ -160,16 +160,14 @@ img.three {
   border-color: purple;
 }
 
-div.PIMG {
+div.IMG {
 
 }
-div.Polosexamples{
+div.Project{
 width: 273px;
-  height: 400px;
-  padding: 4px;
-  margin: 4px;
- display: flex;
-flex-wrap: wrap;
+height: 400px;
+padding: 4px;
+margin: 4px;
 	
 }
 /* Create three equal columns that floats next to each other */
