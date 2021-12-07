@@ -160,25 +160,48 @@ img.three {
   border-color: purple;
 }
 
-div.IMG {
+div.gallery {
+  border: 1px solid #ccc;
+}
 
+div.gallery:hover {
+  border: 1px solid #777;
 }
-div.Project{
-width: 273px;
-height: 400px;
-padding: 4px;
-margin: 4px;
-	
+
+div.gallery img {
+  width: 100%;
+  height: auto;
 }
-/* Create three equal columns that floats next to each other */
-.column {
-  float: left;
-  width: 33.33%;
+
+div.desc {
   padding: 15px;
+  text-align: center;
 }
 
-/* Clear floats after the columns */
-.row:after {
+* {
+  box-sizing: border-box;
+}
+
+.responsive {
+  padding: 0 6px;
+  float: left;
+  width: 24.99999%;
+}
+
+@media only screen and (max-width: 700px) {
+  .responsive {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .responsive {
+    width: 100%;
+  }
+}
+
+.clearfix:after {
   content: "";
   display: table;
   clear: both;
