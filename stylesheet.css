@@ -332,49 +332,11 @@ div.Polosexamples {
   background-color: white;
   color: white;
   padding: 4px;
-	
-	
+  width: 400px;
+  height: 500px;
+		
 }
 
-img.polo1 {
-	padding: 4px;
-	margin: 4px;
-	border: solid 1px;
-	border-color: hotpink;
-	width: 110%;
-}
-
-img.polo2 {
-	padding: 4px;
-	margin: 4px;
-	border: solid 1px;
-	border-color: hotpink;
-	width: 110%;
-
-}
-
-img.polo3 {
-	padding: 4px;
-	margin: 4px;
-	border: solid 1px;
-	border-color: hotpink;
-	width: 110%;
-}
-img.polo4 {
-
-	padding: 4px;
-	margin: 4px;
-	border: solid 1px;
-	border-color: hotpink;
-	width: 110%;
-}
-img.polo5 {
-
-	padding: 4px;
-	margin: 4px;
-	border: solid 1px;
-	border-color: hotpink;
-	width: 110%;
 }
 
 /* Start of Megans Styling */
