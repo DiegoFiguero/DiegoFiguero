@@ -326,10 +326,11 @@ div.Ptext {
 
 div.gallery {
   margin: 5px;
-  border: 4px solid #ac2d4a;
-  background-color: #ac2d4a;
+  border: 4px solid white;
+  background-color: white;
   vertical-align: top;
   display: inline-block;
+ width: 400px;
 }
 
 div.gallery img {
