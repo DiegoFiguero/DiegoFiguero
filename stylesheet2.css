@@ -59,16 +59,16 @@ div.stu-container {
 }
 
 div.about {
-      position: relative;
-    left: 622px;
+    position: relative;
+    left: 575px;
     font-family: 'sans-serif';
     color: #343735;
     background-color: #fbc00f;
-    width: fit-content;
+    width: 267px;
     font-size: 15px;
-    margin-top: 95px;
+    margin-top: 171px;
     padding: 15px;
-	tex-align: left;
+	tex-align: right;
 }
 
 }
