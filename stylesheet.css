@@ -317,11 +317,18 @@ div.Ptext {
   	border-color: white;
 }
 
+.responsive {
+  margin-left: 20px;
+  padding: 0 6px;
+  float: left;
+  width: 24.99999%;
+}
+
 div.gallery {
   margin: 5px;
   border: 4px solid #ac2d4a;
   background-color: #ac2d4a;
-	vertical-align: top;
+  vertical-align: top;
   display: inline-block;
 }
 
