@@ -321,6 +321,8 @@ div.gallery {
   margin: 5px;
   border: 4px solid #ac2d4a;
   background-color: #ac2d4a;
+	vertical-align: top;
+  display: inline-block;
 }
 
 div.gallery img {
