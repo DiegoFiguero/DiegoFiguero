@@ -317,19 +317,15 @@ div.Ptext {
   	border-color: white;
 }
 
-div.PIMG {
-margin: 5px;
-border: 4px solid white;
+div.gallery {
+  margin: 5px;
+  border: 4px solid #ac2d4a;
+  background-color: #ac2d4a;
 }
 
-div.PIMG:hover {
-border: 1px solid #777;
-	
-}
-div.Polosexamples {
-  width: 400px;
-  height: 500px;
-		
+div.gallery img {
+  width: 100%;
+  height: auto;
 }
 
 }
